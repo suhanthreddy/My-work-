@@ -7,6 +7,7 @@ public class Febonaciseries
 
 	public static void main(String[] args) 
 	{
+		//edit2
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter limit");
 		int l=sc.nextInt();
